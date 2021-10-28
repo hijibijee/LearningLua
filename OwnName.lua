@@ -1,0 +1,1 @@
+print("Name of this file is: " .. arg[0])
